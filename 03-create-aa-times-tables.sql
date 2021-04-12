@@ -13,7 +13,7 @@ SET ROLE aa_times;
 -- | email       | VARCHAR(100) | NOT NULL    |
 
 
-
+ 
 -- The "sections" table
 -- | Column name | Type         | Constraints |
 -- |-------------|--------------|-------------|
